@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- edited with XMLSpy 
+	v2013 (http://www.altova.com) by () -->
+<BLRAPN version="0.1">
+	<MessageHeader>
+		<MessageID>8800</MessageID>
+		<MsgDateTime>20150609104320</MsgDateTime>
+		<MessageType>BLRAPN</MessageType>
+		<MsgSenderID>4816546546546</MsgSenderID>
+		<MsgReceiverID>4604569322250</MsgReceiverID>
+	</MessageHeader>
+	<Acknowledgement>
+		<DocumentID>8800</DocumentID>
+		<FunctionCode>6</FunctionCode>
+		<CreationDateTime>20150609104320</CreationDateTime>
+		<DeliveryNoteID>TON-4604569322250-0000008797</DeliveryNoteID>
+		<DeliveryNoteDate>20150609</DeliveryNoteDate>
+		<ReferenceDocument>
+			<Type>BLRWBL</Type>
+			<ID>8797</ID>
+			<Date>20150609104257</Date>
+		</ReferenceDocument>
+		<Shipper>
+			<GLN>4604569322250</GLN>
+		</Shipper>
+		<Receiver>
+			<GLN>4816546546546</GLN>
+		</Receiver>
+		<ErrorOrAcknowledgement>
+			<Code>2750</Code>
+			<Description>тестовая причина</Description>
+		</ErrorOrAcknowledgement>
+	</Acknowledgement>
+</BLRAPN>
